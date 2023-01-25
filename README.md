@@ -32,6 +32,12 @@ yarn build && yarn start
 
 Very bad.
 
+## How to hide the problem
+
+If you remove the middleware.js file altogether, the 404 page starts working.
+
+So, you can have either Middleware or a working 404 page. Choose wisely :)
+
 ## My other application
 
 In my _actual application_ which is not open-source and is a bit more involved as you might guess, the problem looks a bit different.
