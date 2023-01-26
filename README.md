@@ -1,4 +1,4 @@
-Demonstrates how Next.js custom 404 page is broken when there is a Middleware present.
+Demonstrates how Next.js custom 404 page is broken when there is a Middleware present. See https://github.com/vercel/next.js/issues/44919 to track status of this issue and inform me if it gets fixes, please.
 
 In this case the middleware "does nothing", i.e. consist of
 
